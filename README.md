@@ -32,15 +32,6 @@ This repository contains resources, tutorials, and experiments related to:
 - Productivity tools for creators
 - Prompt engineering
 
-Folder Structure
-
-StoryLab  
-│  
-├── photography  
-├── video-editing  
-├── graphic-design  
-└── automation-tools  
-
 Purpose
 The goal of StoryLab is to:
 - Document learning and experiments
